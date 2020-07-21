@@ -4,6 +4,7 @@
 
 This SDK is managing all bot interactions from handling bot commands to receiving notifications from external systems and push them as symphony messages.
 
+> :warning: **This repository is deprecated**: Repository has been moved into [symphony-api-client-java](https://github.com/SymphonyPlatformSolutions/symphony-api-client-java)
 
 ## Summary
 
